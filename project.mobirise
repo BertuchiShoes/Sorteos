@@ -595,7 +595,7 @@
             "overlayOpacity": 0.6
           },
           "title": "@BERTUCHISHOES",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-secondary\" href=\"#\" data-max-id=\"1739790842607194011_7153519378\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Ver más...</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
